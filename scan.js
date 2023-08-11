@@ -1,7 +1,7 @@
 const fs = require('fs');
 const readline = require('readline');
 
-const searchEmail = 'lucas.beressi34@gmail.com';
+const searchEmail = ###################;
 const filePath = 'wordlist/157K FR COMBO.txt';
 
 async function searchInFile() {
